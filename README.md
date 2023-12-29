@@ -14,3 +14,5 @@ What it does:
 3) Creates a list of the domains with associated IPs, and makes a .txt file of them
 
 4) Looks up that list with IPs on shodan and makes (yes another) .txt file with results
+
+5) Takes the subdomain list and loops through them with dig to spit out yet another .txt file
