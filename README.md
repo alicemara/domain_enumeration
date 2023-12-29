@@ -1,7 +1,9 @@
 # domain_enumeration
 Exactly what it says. Read the script before you run it. 
 
-Quick and dirty script made when doing HTB. Can't say it's perfect but it seems to work (mostly)!
+Quick and dirty script made when doing HTB. Can't say it's perfect but it seems to work (mostly).
+
+Requires jq for parsing json and a shodan api key for.....shodan
 
 What it does:
 
